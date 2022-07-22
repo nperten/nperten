@@ -7,4 +7,4 @@
 
 https://gitlab.com/nperten
 
-https://nperten.gitlab.io
+https://nperten.xyz
